@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techofliger&label=Profile%20views&color=0e75b6&style=flat" alt="techofliger" /> </p>
 
-<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <a href="https://twitter.com/smart_shiva_110" target="blank"><img src="https://img.shields.io/twitter/follow/smart_shiva_110?logo=twitter&style=for-the-badge" alt="smart_shiva_110" /></a> </p>
 
