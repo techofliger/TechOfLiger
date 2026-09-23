@@ -1,41 +1,327 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
-<h1 align="center">Hi 👋, I'm Shiva</h1>
-<h3 align="center">🚀 Full Stack Developer | Turning ideas into working products from India</h3>
+<div align="center">
 
+# 👋 Hi, I'm Shivam Sharma
 
+### 💻 B.Tech CSE Student • Software Engineer in Progress • Full-Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techofliger&label=Profile%20views&color=0e75b6&style=flat" alt="techofliger" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+real-world+software+projects;Learning+DSA+%26+System+Design;Exploring+AI%2FML;Full-Stack+Development;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
 
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<br/>
 
-<p align="left"> <a href="https://twitter.com/smart_shiva_110" target="blank"><img src="https://img.shields.io/twitter/follow/smart_shiva_110?logo=twitter&style=for-the-badge" alt="smart_shiva_110" /></a> </p>
+<a href="https://github.com/techofliger">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/shivam-sharma-1b3b3a327/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+</div>
 
+---
 
-- 🔭 I’m currently working on **Languages.**
+## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **DSA , RDBMS , MYSQL , etc.**
+```text
+🎓 B.Tech Computer Science Engineering Student
+💻 Software Engineer in Progress
+🚀 Building real-world web & software projects
+🧠 Practicing Data Structures & Algorithms
+🤖 Exploring AI/ML & AI-powered applications
+🌐 Learning Full-Stack Development
+🏆 Hackathon & project enthusiast
+📍 India
+```
 
-- 💬 Ask me about **Web Development.**
+I'm passionate about **software engineering, problem solving, AI-powered applications, and building products that solve real problems.**
 
-- 📫 How to reach me **techofliger@gmail.com.**
+Currently focused on improving my **DSA, programming, full-stack development, system design, and software engineering fundamentals.**
 
-- 📄 Know about my experiences **[Learn about my work & experiences].**
+---
 
-- ⚡ Fun fact **I debug faster with coffee.**
+# 🚀 What I'm Currently Working On
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/smart_shiva_110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smart_shiva_110" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivam sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/techwithshiva25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techwithshiva25" height="30" width="40" /></a>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  💻 Software Engineering                                    │
+│  🧠 Data Structures & Algorithms                            │
+│  🌐 Full-Stack Development                                  │
+│  🤖 AI-powered Applications                                 │
+│  🏗️ Real-world Projects                                    │
+│  🏆 Hackathons & Open Source                                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+### 🌐 Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techofliger&show_icons=true&locale=en&layout=compact" alt="techofliger" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techofliger&show_icons=true&locale=en" alt="techofliger" /></p>
+### ⚙️ Backend & Database
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techofliger&" alt="techofliger" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,androidstudio" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔥 SkillBridge — Academia × Industry Platform
+
+> An AI-powered platform designed to connect students, academicians, institutions, and industries.
+
+### Core Features
+
+* 🎯 Skill assessment
+* 📊 Skill-gap analysis
+* 🤖 Opportunity matching
+* 💼 Internship & project discovery
+* 📄 Digital student profile
+* 📈 Application tracking
+* 🏢 Industry opportunities
+* 🏫 Institution analytics
+
+**Tech:** `React` `JavaScript` `Firebase` `AI`
+
+---
+
+## 📱 TraceX — Lost Device Tracking
+
+> A mobile application designed to help users track and recover lost devices.
+
+### Core Features
+
+* 📍 Location tracking
+* 🗺️ Map-based interface
+* 🔥 Firebase integration
+* 📱 Android application
+* 🔐 User-focused security
+
+**Tech:** `Kotlin` `Jetpack Compose` `Firebase` `MapLibre` `OpenStreetMap`
+
+---
+
+## 🤖 InterviewPrep AI
+
+> AI-powered interview preparation platform designed to help developers practice technical interviews.
+
+### Focus Areas
+
+* 💬 Interview questions
+* 🧠 AI-powered preparation
+* 💻 Programming practice
+* 📚 Technical concepts
+* 🎯 Interview readiness
+
+**Tech:** `React` `JavaScript` `AI`
+
+---
+
+## 🧠 DSA in Java
+
+> My personal Data Structures & Algorithms learning repository.
+
+### Topics
+
+* Arrays
+* Strings
+* Linked Lists
+* Stacks & Queues
+* Trees
+* Graphs
+* Recursion
+* Sorting
+* Searching
+* Dynamic Programming
+* Complexity Analysis
+
+**Language:** `Java`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=techofliger&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techofliger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techofliger&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🎯 2026 — My Developer Goals
+
+```text
+☐ Master DSA
+☐ Improve Java & Python
+☐ Become strong in Full-Stack Development
+☐ Build production-level applications
+☐ Learn System Design
+☐ Explore AI/ML
+☐ Contribute to Open Source
+☐ Participate in Hackathons
+☐ Build a strong developer portfolio
+☐ Prepare for Software Engineering interviews
+☐ Secure a Software Engineering Internship / Job
+```
+
+---
+
+# 🧠 Currently Learning
+
+```text
+Data Structures & Algorithms
+        ↓
+Problem Solving
+        ↓
+Full-Stack Development
+        ↓
+Backend & Databases
+        ↓
+System Design
+        ↓
+AI-powered Applications
+        ↓
+Software Engineering
+```
+
+---
+
+# 🏆 Hackathons & Achievements
+
+### 🏆 Smart India Hackathon 2026
+
+**Team ByteForce**
+
+Project: **SkillBridge / NexusSkill**
+
+Focus:
+
+> Academia–Industry Skill Mapping, Internships & Placement
+
+---
+
+# 💡 My Development Philosophy
+
+<div align="center">
+
+### Build → Break → Learn → Improve → Repeat
+
+<br/>
+
+> "Don't just learn technologies. Build things with them."
+
+</div>
+
+---
+
+# 📚 My Current Roadmap
+
+```text
+                 SOFTWARE ENGINEER
+                        │
+          ┌─────────────┼─────────────┐
+          ↓             ↓             ↓
+         DSA       DEVELOPMENT      SYSTEM DESIGN
+          │             │             │
+          ↓             ↓             ↓
+     Problem       Frontend       Architecture
+      Solving      Backend        Scalability
+          │             │             │
+          └─────────────┼─────────────┘
+                        ↓
+                 REAL PROJECTS
+                        ↓
+                  HACKATHONS
+                        ↓
+                 OPEN SOURCE
+                        ↓
+              SOFTWARE ENGINEER 🚀
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/techofliger">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivam-sharma-1b3b3a327/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="[YOUR_PORTFOLIO_URL](https://techofliger.github.io/Portfolio/)">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Thanks for visiting my profile!
+
+**If you find something interesting, feel free to explore my repositories.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+
+<br/><br/>
+
+⭐ **Keep Learning. Keep Building. Keep Growing.**
+
+</div>
