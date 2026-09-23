@@ -53,8 +53,6 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
-
 # 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -83,88 +81,13 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 
 ---
 
-# 🚀 Featured Projects
-
-## 🔥 SkillBridge — Academia × Industry Platform
-
-> An AI-powered platform designed to connect students, academicians, institutions, and industries.
-
-### Core Features
-
-* 🎯 Skill assessment
-* 📊 Skill-gap analysis
-* 🤖 Opportunity matching
-* 💼 Internship & project discovery
-* 📄 Digital student profile
-* 📈 Application tracking
-* 🏢 Industry opportunities
-* 🏫 Institution analytics
-
-**Tech:** `React` `JavaScript` `Firebase` `AI`
-
----
-
-## 📱 TraceX — Lost Device Tracking
-
-> A mobile application designed to help users track and recover lost devices.
-
-### Core Features
-
-* 📍 Location tracking
-* 🗺️ Map-based interface
-* 🔥 Firebase integration
-* 📱 Android application
-* 🔐 User-focused security
-
-**Tech:** `Kotlin` `Jetpack Compose` `Firebase` `MapLibre` `OpenStreetMap`
-
----
-
-## 🤖 InterviewPrep AI
-
-> AI-powered interview preparation platform designed to help developers practice technical interviews.
-
-### Focus Areas
-
-* 💬 Interview questions
-* 🧠 AI-powered preparation
-* 💻 Programming practice
-* 📚 Technical concepts
-* 🎯 Interview readiness
-
-**Tech:** `React` `JavaScript` `AI`
-
----
-
-## 🧠 DSA in Java
-
-> My personal Data Structures & Algorithms learning repository.
-
-### Topics
-
-* Arrays
-* Strings
-* Linked Lists
-* Stacks & Queues
-* Trees
-* Graphs
-* Recursion
-* Sorting
-* Searching
-* Dynamic Programming
-* Complexity Analysis
-
-**Language:** `Java`
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=techofliger&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=techofliger&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -192,7 +115,7 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/techofliger/techofliger/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -302,7 +225,7 @@ Focus:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[YOUR_PORTFOLIO_URL](https://techofliger.github.io/Portfolio/)">
+<a href="https://techofliger.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -318,7 +241,7 @@ Focus:
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=techofliger&style=for-the-badge&color=blue" />
 
 <br/><br/>
 
