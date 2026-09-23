@@ -105,7 +105,7 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 
 <div align="center">
 
-<img src="https://techofliger" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechOfLiger&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -115,7 +115,7 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 
 <div align="center">
 
-<img src="https://techofliger" />
+<img src="https://raw.githubusercontent.com/TechOfLiger/TechOfLiger/output/github-contribution-grid-snake.svg" />
 
 </div>
 
