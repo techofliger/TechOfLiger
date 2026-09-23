@@ -105,7 +105,7 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techofliger&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://techofliger" />
 
 </div>
 
@@ -115,27 +115,9 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/techofliger/techofliger/output/github-contribution-grid-snake.svg" />
+<img src="https://techofliger" />
 
 </div>
-
----
-
-# 🎯 2026 — My Developer Goals
-
-```text
-☐ Master DSA
-☐ Improve Java & Python
-☐ Become strong in Full-Stack Development
-☐ Build production-level applications
-☐ Learn System Design
-☐ Explore AI/ML
-☐ Contribute to Open Source
-☐ Participate in Hackathons
-☐ Build a strong developer portfolio
-☐ Prepare for Software Engineering interviews
-☐ Secure a Software Engineering Internship / Job
-```
 
 ---
 
@@ -156,20 +138,6 @@ AI-powered Applications
         ↓
 Software Engineering
 ```
-
----
-
-# 🏆 Hackathons & Achievements
-
-### 🏆 Smart India Hackathon 2026
-
-**Team ByteForce**
-
-Project: **SkillBridge / NexusSkill**
-
-Focus:
-
-> Academia–Industry Skill Mapping, Internships & Placement
 
 ---
 
