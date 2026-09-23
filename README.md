@@ -117,12 +117,12 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 
 <picture>
   <source
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/TechOfLiger/TechOfLiger/output/github-contribution-grid-snake-dark.svg"
   />
 
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/TechOfLiger/TechOfLiger/output/github-contribution-grid-snake.svg"
   />
 
