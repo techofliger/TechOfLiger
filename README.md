@@ -85,9 +85,15 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=techofliger&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=TechOfLiger&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=techofliger&theme=tokyonight&hide_border=true" />
+<img
+  height="180"
+  src="https://streak-stats.demolab.com/?user=TechOfLiger&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
@@ -95,7 +101,10 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techofliger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechOfLiger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
 
 </div>
 
@@ -105,7 +114,10 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechOfLiger&theme=tokyo-night&hide_border=true&area=true" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TechOfLiger&theme=tokyo-night&hide_border=true&area=true"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
