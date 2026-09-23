@@ -84,10 +84,11 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img
+  
+ <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=TechOfLiger&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=TechOfLiger&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
 />
 
 <img
@@ -103,7 +104,8 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechOfLiger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechOfLiger&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
 />
 
 </div>
