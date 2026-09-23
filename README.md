@@ -84,8 +84,8 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 # 📊 GitHub Analytics
 
 <div align="center">
-  
- <img
+
+<img
   height="180"
   src="https://github-readme-stats.vercel.app/api?username=TechOfLiger&show_icons=true&theme=tokyonight&hide_border=true"
   alt="GitHub Stats"
@@ -94,7 +94,24 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 <img
   height="180"
   src="https://streak-stats.demolab.com/?user=TechOfLiger&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
 />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechOfLiger&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
+
+</div>
+
+---
 
 </div>
 
