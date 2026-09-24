@@ -38,21 +38,6 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 
 ---
 
-# 🚀 What I'm Currently Working On
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  💻 Software Engineering                                    │
-│  🧠 Data Structures & Algorithms                            │
-│  🌐 Full-Stack Development                                  │
-│  🤖 AI-powered Applications                                 │
-│  🏗️ Real-world Projects                                    │
-│  🏆 Hackathons & Open Source                                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
 # 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -96,66 +81,6 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 <img src="https://raw.githubusercontent.com/techofliger/techofliger/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
----
-
-# 🧠 Currently Learning
-
-```text
-Data Structures & Algorithms
-        ↓
-Problem Solving
-        ↓
-Full-Stack Development
-        ↓
-Backend & Databases
-        ↓
-System Design
-        ↓
-AI-powered Applications
-        ↓
-Software Engineering
-```
-
----
-
-# 💡 My Development Philosophy
-
-<div align="center">
-
-### Build → Break → Learn → Improve → Repeat
-
-<br/>
-
-> "Don't just learn technologies. Build things with them."
-
-</div>
-
----
-
-# 📚 My Current Roadmap
-
-```text
-                 SOFTWARE ENGINEER
-                        │
-          ┌─────────────┼─────────────┐
-          ↓             ↓             ↓
-         DSA       DEVELOPMENT      SYSTEM DESIGN
-          │             │             │
-          ↓             ↓             ↓
-     Problem       Frontend       Architecture
-      Solving      Backend        Scalability
-          │             │             │
-          └─────────────┼─────────────┘
-                        ↓
-                 REAL PROJECTS
-                        ↓
-                  HACKATHONS
-                        ↓
-                 OPEN SOURCE
-                        ↓
-              SOFTWARE ENGINEER 🚀
-```
-
 ---
 
 # 🌐 Connect With Me
