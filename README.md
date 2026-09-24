@@ -80,63 +80,23 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 </p>
 
 ---
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=TechOfLiger&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
-/>
-
-<img
-  height="180"
-  src="https://streak-stats.demolab.com/?user=TechOfLiger&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
-
-<br/>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechOfLiger&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=techofliger&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techofliger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-</div>
-
-<br/>
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechOfLiger&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TechOfLiger&theme=tokyo-night&hide_border=true&area=true"
-  alt="GitHub Activity Graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techofliger&theme=tokyo-night&hide_border=true" />
 
 </div>
 
