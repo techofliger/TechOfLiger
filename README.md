@@ -84,19 +84,19 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=techofliger&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+### 💻 GitHub Profile
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techofliger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=techofliger&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techofliger&theme=tokyo-night&hide_border=true" />
+<img src="https://raw.githubusercontent.com/techofliger/techofliger/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
