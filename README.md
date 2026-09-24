@@ -65,14 +65,6 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 </p>
 
 ---
-## 📈 Contribution Activity
-
-<div align="center">
-
-![GitHub Contributions](https://github.com/techofliger.png)
-
-</div>
----
 
 ## 🐍 Contribution Snake
 
