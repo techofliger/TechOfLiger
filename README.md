@@ -80,14 +80,13 @@ Currently focused on improving my **DSA, programming, full-stack development, sy
 </p>
 
 ---
-## 📊 GitHub Analytics
+## 📈 Contribution Activity
 
 <div align="center">
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=techofliger&style=for-the-badge&color=blue)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techofliger&theme=tokyo-night&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
